@@ -1,0 +1,15 @@
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/bin/Debug/net8.0/gerenciamento-de-livraria
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/bin/Debug/net8.0/gerenciamento-de-livraria.deps.json
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/bin/Debug/net8.0/gerenciamento-de-livraria.runtimeconfig.json
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/bin/Debug/net8.0/gerenciamento-de-livraria.dll
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/bin/Debug/net8.0/gerenciamento-de-livraria.pdb
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.AssemblyInfoInputs.cache
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.AssemblyInfo.cs
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.sourcelink.json
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.dll
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/refint/gerenciamento-de-livraria.dll
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.pdb
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/gerenciamento-de-livraria.genruntimeconfig.cache
+/home/aluno/Documentos/GitHub/gerenciamento-de-livraria/obj/Debug/net8.0/ref/gerenciamento-de-livraria.dll
